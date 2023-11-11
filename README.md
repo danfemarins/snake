@@ -37,7 +37,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 ## Autor
 
-Seu Nome (ou apelido) - [Seu Perfil do GitHub](https://github.com/danfemarins)
+Seu Nome (danfemarins) - [Seu Perfil do GitHub](https://github.com/danfemarins)
 
 ## Licença
 
