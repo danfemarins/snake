@@ -14,22 +14,17 @@ Bem-vindo ao Jogo da Cobrinha! Este é um jogo simples desenvolvido em HTML, CSS
 
 - HTML
 - CSS
-- JavaScript (Pygame para a versão desktop)
 
 ## Como Executar
 
-1. Para a versão desktop:
-   - Certifique-se de ter o Python instalado.
-   - Execute o arquivo `snake.py`.
-
-2. Para a versão web:
+1. Para a versão web:
    - Abra o arquivo `index.html` em um navegador web.
 
 ## Estrutura do Projeto
 
 - `css/`: Arquivos de estilo.
 - `js/`: Arquivos JavaScript, incluindo a lógica do jogo.
-- `assets/`: Recursos, como imagens.
+
 
 ## Contribuições
 
